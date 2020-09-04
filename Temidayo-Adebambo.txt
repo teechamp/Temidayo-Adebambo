@@ -1,0 +1,24 @@
+1. Git is a version control system that lets you manage and keep track of your source code history while a GitHub is a cloud-based hosting service that lets you manage Git repositories. for example, if theres any open source program code that uses git repositories, the github helps in managing 
+2.few of the benefits of version control system are:
+  (A)Version control system helps in recording changes made to a file or series of file
+  (B)designed for cordinating work among programmers
+  (c)It enhances more work flexibility i.e it is mostly geared towards software development
+  (d) It also allows one to compare and dfiferentiate files and merges the changes if need to.
+3.programming languages are used in Git preferably high level languages.
+4. Examples of git repository hosting service providers are Github, Gitlab, Bitbucket, lauchpad, google cloud source repository...
+5. A repository in a git keeps record of series of changes made to files in a container, the container serves as a placehold where all the records could be easily tracked, Distributed Version Control System: Git has a remote repository which is stored in a server and a local repository which is stored in the computer...
+6.(A) working in github environment select a new repository
+  (B) create a short name for your repository
+  (c) adding a description but its usually optional
+  (D) choose to make the repository either either public or private
+  (E) initiates this repository with a README.
+  (F) click create repository
+7. Gits command are command used in a Git world, few are
+  (A) git add usage :: git add[file]
+  (B) git commit usage :: git commit -m "type in commit msg"
+  (C) git diff usage :: git diff
+  (D) git reset usage :: git rest[file]
+  (E) git push usage :: git push [variable name]master
+8.Git is an open source distributed version-control system for tracking changes in source code during software development.
+9. .git directory folder contains and log every commit history and every other information required for a remote repository version control.
+10.  If the .git/ directory gets deleted, then there would be lose track of a project's history. The repository will no longer be under version control(github). 
